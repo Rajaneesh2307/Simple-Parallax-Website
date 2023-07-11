@@ -1,0 +1,123 @@
+body, html
+{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    line-height: 1.5em;
+    color: #666;
+}
+.sectionstyling-0
+{
+    background-image: url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?w=2000);
+    height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.sectionstyling-1
+{
+    background-image: url(https://wallpaperaccess.com/full/31189.jpg);
+    height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.sectionstyling-2
+{
+    background-image: url(https://wallpapershome.com/images/pages/pic_h/23277.jpg);
+    height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.sectionstyling-3
+{
+    background-image: url(https://img1.wallspic.com/attachments/originals/5/8/4/8/5/158485-have_a_relaxing_evening-water-cloud-mountain-natural_landscape-5120x2880.jpg);
+    height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.divstyling
+{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 28px;
+    letter-spacing: 1.5;
+    text-transform: uppercase;
+}
+.spanstyling0
+{
+    background-color: whitesmoke;
+    padding: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.spanstyling1
+{
+    background-color: #282e34;
+    padding: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.spanstyling2
+{
+    background-color: lightslategray;
+    padding: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.spanstyling0:hover
+{
+    color: blueviolet;
+}
+.spanstyling1:hover
+{
+    color: whitesmoke;
+}
+.spanstyling2:hover
+{
+    color: lightblue;
+}
+.sectionstyling0
+{
+    background-color: whitesmoke;
+    padding: 45px 90px;
+    text-align: center;
+    text-align: justify;
+    color: #666;
+    border-radius: 6px;
+}
+h2
+{
+    text-align: center;
+}
+.sectionstyling1
+{
+    background-color: #282e34;
+    padding: 45px 90px;
+    text-align: center;
+    text-align: justify;
+    color: #ddd;
+}
+.sectionstyling2
+{
+    background-color: lightslategray;
+    padding: 45px 90px;
+    text-align: center;
+    text-align: justify;
+    color: white;
+}
